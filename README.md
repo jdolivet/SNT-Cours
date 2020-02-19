@@ -1,2 +1,2 @@
 # SNT-Cours
-Ce dépôt regroupe les travaux des élèves en SNT
+Ce dépôt regroupe les travaux des élèves en SNT.
